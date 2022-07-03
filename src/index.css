@@ -1,0 +1,10 @@
+.box{
+    margin-top: 20px;
+}
+.box h1{
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #d21a1a;
+    color: white;
+    padding: 10px;
+}
